@@ -1,5 +1,4 @@
 import { describe, expect, test } from "vitest";
-import testingtester;
 const person = {
   isActive: true,
   age: 32,
